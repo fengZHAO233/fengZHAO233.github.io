@@ -9,7 +9,7 @@ redirect_from:
 ---
 My name is Feng Zhao. I am now a second-year student from [School of ECE](https://www.ece.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). Before that, I received my bachelor’s degree with honered rank (top 5%) from [Software College](http://sc.neu.edu.cn/), [Northeastern University(China)](http://www.neu.edu.cn/) in 2021. My interest includes **blockchain, future network, and database**.
 
-You can find my CV here: [ fengZhao's Curriculum Vitae](../assets/1CV-ZhaoFeng-20230712.pdf).
+You can find my CV here: [ fengZhao's Curriculum Vitae](../assets/fengZhao-CV.pdf).
 
 
 Publications
