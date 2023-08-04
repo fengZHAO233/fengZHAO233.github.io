@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Feng Zhao. I am now a second-year student from [School of ECE](https://www.ece.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). Before that, I received my bachelor’s degree with honered rank (top 5%) from [Software College](http://sc.neu.edu.cn/), [Northeastern University(China)](http://www.neu.edu.cn/) in 2021. My interest includes **blockchain, future network, and database**.
+My name is Feng Zhao. I am now a second-year student from [School of ECE](https://www.ece.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). Before that, I received my bachelor’s degree with honered rank (top 5%) from [Software College](http://sc.neu.edu.cn/), [Northeastern University(China)](http://www.neu.edu.cn/) in 2021. My interest includes **blockchain, future network, distributed system and database**.
 
-You can find my CV here: [ fengZhao's Curriculum Vitae](../assets/fengZhao-CV.pdf).
+You can find my CV here: [ fengZhao's Curriculum Vitae](../assets/fengZhao-CV1.pdf).
 
 
 Publications
@@ -20,7 +20,7 @@ Publications
 Honors and Awards
 ======
 1. **Outstanding Graduate of Liaoning Province**, top 3% <br> 2021
-2. **National Scholarship**, top 2% <br> 2018 & 2019
+2. **National Scholarship**, top 1% <br> 2018 & 2019
 3. **First-Class University Scholarship**, top 3%  <br> 2018 & 2019 & 2020
 4. **Pacemaker to Excellent Students Cadre**, top 1%  <br> 2019
 5. **Pacemaker to Excellent Students**, top 1%  <br> 2018
@@ -36,4 +36,4 @@ Leadership
 
 Experience 
 ======
-You can find the develop experience in my CV: [ fengZhao's Curriculum Vitae](../assets/1CV-ZhaoFeng-20230712.pdf).
+You can find my Develop and Research experience in my CV: [ fengZhao's Curriculum Vitae](../assets/fengZhao-CV1.pdf).
