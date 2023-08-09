@@ -36,4 +36,11 @@ Leadership
 
 Experience 
 ======
-You can find my Develop and Research experience in my CV: [ fengZhao's Curriculum Vitae](../assets/1CV-ZhaoFeng-20230809.pdf).
+You can find my Develop and Research experience in my CV: [ fengZhao's Curriculum Vitae](../assets/1CV-ZhaoFeng-20230809.pdf).<br>
+And here is the PPT about the research of EMIS:[ EMIS's PPT](../assets/research-emis.ppt).
+1. **EMIS**: based on **E**thereum **M**ultiple **I**dentifiers **S**ystem, Research and Development
+2. **CRS**: **C**ommercial **R**oot supply chain finance **S**ystem, Development
+3. **CP-ABE**: Trying to improve the security and efficiency of the algorithm, Research
+4. **MIB**: **M**ultiple **I**dentifiers network **B**rowser, Development
+5. Some other research and development...
+
