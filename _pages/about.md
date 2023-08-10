@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Feng Zhao. I am now a second-year student from [School of ECE](https://www.ece.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). Before that, I received my bachelor’s degree with honered comprehensive rank (top 2%) from [Software College](http://sc.neu.edu.cn/), [Northeastern University(China)](http://www.neu.edu.cn/) in 2021. My interest includes **blockchain, distributed system, database, privacy and future network**.
+My name is Feng Zhao. I am now a second-year student from [School of ECE](https://www.ece.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). Before that, I received my bachelor’s degree with honered comprehensive rank (top 2%) from [Software College](http://sc.neu.edu.cn/), [Northeastern University(China)](http://www.neu.edu.cn/) in 2021. My interest includes **blockchain, database, privacy and future network**.
 
 You can find my CV here: [ fengZhao's Curriculum Vitae](../assets/1CV-ZhaoFeng-20230809.pdf).
 
