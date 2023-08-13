@@ -16,6 +16,7 @@ Publications
 ======
 1. Han Wang, Hui Li*, Abla Smahi, **Feng Zhao**, Yao Yao, Ching Chuen Chan (IEEE Fellow), Shiyu Wang, Wenyuan Yang*, Shuo-Yen Robert Li (IEEE Fellow), “MIS: A Multi-Identifier Management and Resolution System in the Metaverse”, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2023. (CCF B, JCR Q1)
 2. Han Wang, Hui Li*, Zixian Wang, **Feng Zhao**, Yao Yao, Tuanfa Qin, Ping Lu et al., “Optimizing Read Performance in Lightweight Blockchain with Cooperative Storage Scheme”, International Conference on Blockchain Computing and Applications (BCCA), 2023
+3. IEEE Blockchain 2023 (Under Review, First author)
 
 Honors and Awards
 ======
