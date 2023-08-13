@@ -9,7 +9,7 @@ redirect_from:
 ---
 My name is Feng Zhao. I am now a second-year student from [School of ECE](https://www.ece.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). Before that, I received my bachelor’s degree with honered comprehensive rank (top 2%) from [Software College](http://sc.neu.edu.cn/), [Northeastern University(China)](http://www.neu.edu.cn/) in 2021. My interest includes **blockchain, database, privacy and future network**.
 
-You can find my CV here: [ fengZhao's Curriculum Vitae](../assets/CV-zhaofeng.pdf).
+You can find my CV here: [ fengZhao's Curriculum Vitae](../assets/zhaofeng-cv.pdf).
 
 
 Publications
@@ -36,7 +36,7 @@ Leadership
 
 Experience 
 ======
-You can find my Develop and Research experience in my CV: [ fengZhao's Curriculum Vitae](../assets/CV-zhaofeng.pdf).<br>
+You can find my Develop and Research experience in my CV: [ fengZhao's Curriculum Vitae](../assets/zhaofeng-cv.pdf).<br>
 And here is the PPT about the research of EMIS:[ EMIS's PPT](../assets/research-emis.pptx).
 1. **EMIS**: based on **E**thereum **M**ultiple **I**dentifiers **S**ystem, Research and Development
 2. **CRS**: **C**ommercial **R**oot supply chain finance **S**ystem, Development
